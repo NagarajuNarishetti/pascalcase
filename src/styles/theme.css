@@ -1,0 +1,53 @@
+@theme inline {
+  /* Light-only palette based on provided colors */
+  /* Palette: #2b6777, #c8d8e4, #ffffff, #f2f2f2, #52ab98 */
+  --bg-900: #ffffff;
+  /* page background */
+  --bg-800: #f2f2f2;
+  /* subtle sections */
+  --text-100: #2b6777;
+  /* primary text */
+  --muted: #6c8c95;
+  /* derived muted text */
+  --accent: #52ab98;
+  /* primary accent */
+  --accent-2: #2b6777;
+  /* secondary accent/links */
+  --glass-1: rgba(43, 103, 119, 0.06);
+  --glass-2: rgba(43, 103, 119, 0.1);
+
+  /* Brand */
+  --color-brand: #2b6777;
+  --color-brand-foreground: #ffffff;
+
+  /* Radii */
+  --radius-sm: 0.5rem;
+  /* 8pt scale */
+  --radius-md: 1rem;
+  /* rounded-xl */
+  --radius-lg: 1.5rem;
+  /* rounded-2xl */
+  --radius-xl: 2rem;
+  /* rounded-3xl */
+  --radius-full: 9999px;
+
+  /* Extended tokens (light) */
+  --surface-0: #ffffff;
+  --surface-1: #f2f2f2;
+  --surface-card: #ffffff;
+  --surface-popover: #ffffff;
+  --surface-input: #ffffff;
+
+  --text-primary: #2b6777;
+  --text-secondary: #6c8c95;
+  --text-inverse: #ffffff;
+
+  --border-subtle: rgba(43, 103, 119, 0.08);
+  --border-default: rgba(43, 103, 119, 0.16);
+  --border-strong: rgba(43, 103, 119, 0.28);
+
+  --overlay-1: rgba(82, 171, 152, 0.08);
+  --overlay-2: rgba(82, 171, 152, 0.12);
+
+  --on-accent: #ffffff;
+}
