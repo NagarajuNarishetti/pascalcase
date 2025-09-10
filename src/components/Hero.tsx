@@ -24,7 +24,7 @@ export default function Hero() {
               width={600}
               height={300}
               priority
-              sizes=" 50vw, 100vw"
+              sizes="50vw, 100vw"
               className="w-full h-auto object-contain rounded-none hero-bounce"
             />
           </div>
